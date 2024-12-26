@@ -1,27 +1,39 @@
-# Client
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
-## Development server
+![image](https://github.com/user-attachments/assets/345b7d37-8df9-4c01-a9bd-9e65dfa3340c)    ![image](https://github.com/user-attachments/assets/b460bf16-ffd6-41fe-8082-e0a36c9b4635) ![5Microsoft_ NET_logo svg](https://github.com/user-attachments/assets/d7c74938-a7d3-4ab6-a347-c91794eb0d3e)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Objeto
 
-## Running unit tests
+Criado projeto Angular para acesso, coxeção e apresentação dos dados pelo navegador.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## API em C#
 
-## Running end-to-end tests
+API criada em C# .NET e persistida em um arquivo .db dentro da aplicação. Repositório do projeto API:
+[ANGULAR_NET8_WEB_API_FULLSTACK-Api](https://github.com/EderLima88/ANGULAR_NET8_WEB_API_FULLSTACK-Api.git)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## É um CRUD
 
-## Further help
+CRUD completo com todos os métodos.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> [!NOTE]
+> Tenologias:
+> - Angular 17+
+> - C#
+> - JSON
+> - SQLite
+> - Tailwind CSS  
+
+
+>  [!NOTE]
+> Ferramentas:
+> - VScode
+> - Microsoft Visual Studio
+> - Navegador Edge
+> - Git e GitHub
+
+## Imagens:
+![t](https://github.com/user-attachments/assets/bfd5a213-974a-47ac-9382-524e344c406c)
