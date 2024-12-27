@@ -35,7 +35,8 @@ CRUD completo com todos os métodos.
 >  [!NOTE]
 > Ferramentas:
 > - VScode
-> - Microsoft Visual Studio
+> - Microsoft Visual Studio 2022
+> - DB Browser for SQLite
 > - Navegador Edge
 > - Git e GitHub
 
